@@ -39,4 +39,15 @@ body
   {
     background-color: darkseagreen;
   }
+  input
+  {
+    width: 60%;
+    margin-left: 5%;
+    position: relative;
+  }
+  label
+  {
+    width: 30%;
+    position: relative;
+  }
 }
