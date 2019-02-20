@@ -1,0 +1,16 @@
+/*Small Screen*/
+
+
+label,
+input
+{
+  font-family: sans-serif;
+  width: 100%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+body
+{
+  background-color: aquamarine;
+}
