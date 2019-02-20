@@ -43,11 +43,18 @@ body
   {
     width: 60%;
     margin-left: 5%;
-    position: relative;
+    float: right;
   }
   label
   {
     width: 30%;
-    position: relative;
+    float: left;
+  }
+  .submit
+  {
+    width: 100px;
+    float: none;
+    margin-left: 40%;
+    margin-top: 40px;
   }
 }
